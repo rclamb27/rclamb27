@@ -5,7 +5,7 @@
   
 <h3> I've worked with... <h3>
 
-<img src="/media/cpplangbadge.png" alt="html" style="vertical-align:top; margin:4px">
+<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="/media/julialangbadge.png" alt="html" style="vertical-align:top; margin:4px">
 
                                        
