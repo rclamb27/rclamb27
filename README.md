@@ -24,3 +24,8 @@
 <img width="355" height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rclamb27&theme=tokyonight&layout=compact" style="border-radius:40px;">
 
 </p>
+
+  
+Some of my projects are available  [here](https://github.com/rclamb27?tab=repositories)
+
+Also visit my personal website [here](http://76.95.177.179:8080/darkweb/#)
