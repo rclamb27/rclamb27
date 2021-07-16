@@ -17,3 +17,8 @@
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   
 </p>
+
+ <p align="center">
+[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rclamb27)](https://github.com/anuraghazra/github-readme-stats)
+
+</p>
