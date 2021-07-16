@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi Everyone, Im Ryan Lamb! :ok_hand::mage::fire:</h1>
+<h3 align="center">A Programmer looking to sharpen his skills and knowledge at every turn </h3>
 
 <!--
 **rclamb27/rclamb27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
