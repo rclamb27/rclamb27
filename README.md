@@ -1,5 +1,5 @@
 <h1 align="center">Hey Everyone, I'm Ryan Lamb! :ok_hand::mage::fire:</h1>
-<h3 align="center">A Programmer looking to sharpen his skills and knowledge at every turn </h3>
+<h3 align="center">A Programmer Looking to Sharpen his Skills and Knowledge at Every Turn </h3>
 
 <p align="left">
   
