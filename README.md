@@ -19,6 +19,6 @@
 </p>
 
  <p align="center">
-[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rclamb27)](https://github.com/anuraghazra/github-readme-stats)
+<img width="485" height="225" src="https://github-readme-stats.vercel.app/api?username=rclamb27&show_icons=true&theme=tokyonight&include_all_commits=true&hide=stars" style="border-radius:40px;">
 
 </p>
