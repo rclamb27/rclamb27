@@ -27,5 +27,7 @@
 
   
 Some of my projects are available  [here](https://github.com/rclamb27?tab=repositories)
+  
 You can reach me at **rclamb27@gmail.com**
+  
 Also visit my personal website [here](http://76.95.177.179:8080/darkweb/#)
