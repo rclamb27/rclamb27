@@ -1,4 +1,4 @@
-<h1 align="center">Hey Everyone, Im Ryan Lamb! :ok_hand::mage::fire:</h1>
+<h1 align="center">Hey Everyone, I'm Ryan Lamb! :ok_hand::mage::fire:</h1>
 <h3 align="center">A Programmer looking to sharpen his skills and knowledge at every turn </h3>
 
 <p align="left">
@@ -24,10 +24,5 @@
 <img width="355" height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rclamb27&theme=tokyonight&layout=compact" style="border-radius:40px;">
 
 </p>
-
   
 :dragon: Some of my projects are available  [here](https://github.com/rclamb27?tab=repositories)
-  
-:mechanical_arm: You can reach me at **rclamb27@gmail.com**
-  
-:zombie_man: Also visit my personal website [here](http://76.95.177.179:8080/darkweb/#)
