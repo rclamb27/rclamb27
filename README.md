@@ -3,7 +3,7 @@
 
 <p align="left">
  <p align="center">
- <img width="900" height="300" src="/media/1RedUpiJ7Q.gif">
+ <img width="900" height="300" src="/media/512YhoQNWf.gif">
 </p>
 <p align="left">  
 <h3> I've worked with... <h3>
