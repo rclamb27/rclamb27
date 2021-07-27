@@ -2,7 +2,10 @@
 <h3 align="center">A Programmer Looking to Sharpen his Skills and Knowledge at Every Turn </h3>
 
 <p align="left">
-  
+ <p align="center">
+ <img width="900" height="300" src="/media/githubprofilegif1.gif">
+</p>
+<p align="left">  
 <h3> I've worked with... <h3>
 
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
