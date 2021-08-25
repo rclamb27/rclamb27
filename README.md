@@ -27,4 +27,4 @@
 
 </p>
   
-:dragon: Some of my projects are available  [here](https://github.com/rclamb27?tab=repositories)
+:dragon: :fire: Some of my projects are available  [here](https://github.com/rclamb27?tab=repositories)
