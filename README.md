@@ -32,14 +32,13 @@
   <a> :dragon: :fire: Some of my projects are available </a>
   <a href="https://github.com/JustinStitt?tab=repositories"> here</a>
   
-  <!--Resume-->
-   <!--
-  <a>📄 Here's my </a>
-  <a href="">resumé</a>
-  <img src="">
-  -->
+ 
   <!--Open Source-->
   <a> My open source video game (in its early stages currently) is avaliable </a>
   <a href="https://github.com/rclamb27/First-Necromancer-Game.git"> here</a>
 
-
+  <!--Website Project-->
+  <a> A website that I worked on a team of 4 with is avaliable </a>
+  <a href="https://github.com/KonechyJ/CPSC-362_Project1"> here</a>
+  <a> This link to this website is avaliable </a>
+  <a href="http://secondhandgoodies.com/"> here</a>
