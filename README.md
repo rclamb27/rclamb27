@@ -26,6 +26,19 @@
 <img width="355" height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rclamb27&theme=tokyonight&layout=compact" style="border-radius:40px;">
 
 </p>
+  <div style="margin-bottom: 10px"> 
   
-:dragon: :fire: Some of my projects are available  [here](https://github.com/rclamb27?tab=repositories)
-My open source video game (in its early stages currently) is avaliable  [here](https://github.com/rclamb27/First-Necromancer-Game.git)
+  <!--Projects-->
+  <a> :dragon: :fire: Some of my projects are available </a>
+  <a href="https://github.com/JustinStitt?tab=repositories"> here</a>
+  
+  <!--Resume-->
+  <a>📄 Here's my </a>
+  <a href="">resumé</a>
+  <img src="">
+  
+  <!--Open Source-->
+  <a> My open source video game (in its early stages currently) is avaliable </a>
+  <a href="https://github.com/rclamb27/First-Necromancer-Game.git"> here</a>
+
+
