@@ -33,10 +33,11 @@
   <a href="https://github.com/JustinStitt?tab=repositories"> here</a>
   
   <!--Resume-->
+   <!--
   <a>📄 Here's my </a>
   <a href="">resumé</a>
   <img src="">
-  
+  -->
   <!--Open Source-->
   <a> My open source video game (in its early stages currently) is avaliable </a>
   <a href="https://github.com/rclamb27/First-Necromancer-Game.git"> here</a>
