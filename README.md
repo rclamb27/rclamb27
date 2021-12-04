@@ -34,7 +34,7 @@
   
  
   <!--Open Source-->
-  <a> :mage::fire: My open source video game (in its early stages currently) is avaliable </a>
+  <a> :mage: :fire: My open source video game (in its early stages currently) is avaliable </a>
   <a href="https://github.com/rclamb27/First-Necromancer-Game.git"> here</a>
 
   <!--Website Project-->
