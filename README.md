@@ -36,6 +36,9 @@
   <!--Open Source-->
   <a> :mage: :fire: My open source video game (in its early stages currently) is avaliable </a>
   <a href="https://github.com/rclamb27/First-Necromancer-Game.git"> here</a>
+   <!--Personal Project-->
+  <a> My personal website avaliable </a>
+  <a href="https://rclamb27.github.io/"> here</a>
 
   <!--Website Project-->
   <a> :cd: :floppy_disk: A website that I worked on a team of 4 with is avaliable </a>
