@@ -30,14 +30,14 @@
   
   <!--Projects-->
   <a> :dragon: :fire: Some of my projects are available </a>
-  <a href="https://github.com/JustinStitt?tab=repositories"> here</a>
+  <a href="https://github.com/rclamb27?tab=repositories"> here</a>
   
  
   <!--Open Source-->
   <a> :mage: :fire: My open source video game (in its early stages currently) is avaliable </a>
   <a href="https://github.com/rclamb27/First-Necromancer-Game.git"> here</a>
    <!--Personal Project-->
-  <a> My personal website avaliable </a>
+  <a> :cd: :fire: My personal website avaliable </a>
   <a href="https://rclamb27.github.io/"> here</a>
 
   <!--Website Project-->
