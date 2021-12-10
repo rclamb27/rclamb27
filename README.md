@@ -44,5 +44,5 @@
   <a> :cd: :floppy_disk: A website that I worked on a team of 4 with is avaliable </a>
   <a href="https://github.com/KonechyJ/CPSC-362_Project1"> here</a>
   <!--Website Link-->
-  <a> The link to this website is avaliable </a>
+  <a> :dvd: :floppy_disk: The link to this website is avaliable </a>
   <a href="http://secondhandgoodies.com/"> here</a>
