@@ -41,8 +41,8 @@
   <a href="https://rclamb27.github.io/"> here</a>
 
   <!--Website Project-->
-  <a> :cd: :floppy_disk: A website that I worked on a team of 4 with is avaliable </a>
-  <a href="https://github.com/KonechyJ/CPSC-362_Project1"> here</a>
+  <a> :cd: :floppy_disk: A website called Second Hand Goodies that I worked on with a team of four </a>
+  <a href="https://github.com/KonechyJ/CPSC-362_Project1"> Project</a> <a href="http://secondhandgoodies.com/"> Website</a>
   <!--Website Link-->
   <a> :dvd: :floppy_disk: The link to this website is avaliable </a>
   <a href="http://secondhandgoodies.com/"> here</a>
