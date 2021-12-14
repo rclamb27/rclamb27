@@ -33,7 +33,7 @@
   <a href="https://github.com/rclamb27?tab=repositories"> here</a>
   
   <!--Open Source-->
-  <a> :mage: :fire: My open source video game (in its early stages currently) is avaliable </a>
+  <a> :mage: :fire: My open source video game (in its early stages) is avaliable </a>
   <a href="https://github.com/rclamb27/First-Necromancer-Game.git"> here</a>
   
   <!--Personal Project-->
@@ -41,6 +41,6 @@
   <a href="https://rclamb27.github.io/"> here</a>
 
   <!--Website Project-->
-  <a> :cd: :floppy_disk: A website called Second Hand Goodies that I worked on with a team of four </a>
+  <a> :cd: :floppy_disk: Second Hand Goodies, a website that I worked on with a team of four</a>
   (<a href="https://github.com/KonechyJ/CPSC-362_Project1"> Project</a>) (<a href="http://secondhandgoodies.com/"> Website</a>)
   
