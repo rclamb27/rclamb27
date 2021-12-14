@@ -29,7 +29,7 @@
   <div style="margin-bottom: 10px"> 
   
   <!--Projects-->
-  <a> :dragon: :fire: Some of my repositories are available </a>
+  <a> :dragon: :fire: Repositories are available </a>
   <a href="https://github.com/rclamb27?tab=repositories"> here</a>
   
   <!--Open Source-->
