@@ -41,5 +41,5 @@
   <a href="https://rclamb27.github.io/"> website</a>
 
   <!--Website Project-->
-  <a> :cd: :floppy_disk: <a href="https://github.com/KonechyJ/CPSC-362_Project1"> Second Hand Goodies</a>, a website that I worked on with a team of four</a>
+  <a> :cd: :floppy_disk: <a href="https://github.com/KonechyJ/CPSC-362_Project1"> Second Hand Goodies</a>, a website developed with 4 other programmers</a>
  
