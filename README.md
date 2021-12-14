@@ -29,14 +29,14 @@
   <div style="margin-bottom: 10px"> 
   
   <!--Projects-->
-  <a> :dragon: :fire: Some of my projects are available </a>
+  <a> :dragon: :fire: Some of my repositories are available </a>
   <a href="https://github.com/rclamb27?tab=repositories"> here</a>
   
- 
   <!--Open Source-->
   <a> :mage: :fire: My open source video game (in its early stages currently) is avaliable </a>
   <a href="https://github.com/rclamb27/First-Necromancer-Game.git"> here</a>
-   <!--Personal Project-->
+  
+  <!--Personal Project-->
   <a> :cd: :fire: My personal website avaliable </a>
   <a href="https://rclamb27.github.io/"> here</a>
 
