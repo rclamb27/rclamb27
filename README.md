@@ -37,8 +37,8 @@
   <a href="https://github.com/rclamb27/First-Necromancer-Game.git"> here</a>
   
   <!--Personal Project-->
-  <a> :cd: :fire: My personal website available </a>
-  <a href="https://rclamb27.github.io/"> here</a>
+  <a> :cd: :fire: My personal </a>
+  <a href="https://rclamb27.github.io/"> website</a>
 
   <!--Website Project-->
   <a> :cd: :floppy_disk: Second Hand Goodies, a website that I worked on with a team of four</a>
