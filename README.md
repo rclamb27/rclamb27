@@ -33,7 +33,7 @@
   <a href="https://github.com/rclamb27?tab=repositories"> here</a>
   
   <!--Open Source-->
-  <a> :mage: :fire: <a href="https://github.com/rclamb27/First-Necromancer-Game.git">The First Necromancer</a> video game in its early stages </a>
+  <a>:mage: :fire: <a href="https://github.com/rclamb27/First-Necromancer-Game.git">The First Necromancer</a> video game in its early stages </a>
   <!--Personal Project-->
   <a>:cd: :fire: My personal </a>
   <a href="https://rclamb27.github.io/"> website</a>
